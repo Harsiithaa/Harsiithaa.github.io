@@ -6,10 +6,12 @@
     color: #808080;
 }
 
-.language-tsql .hljs-keyword {
-    color: #0000ff;
-    font-weight: normal;
+.language-tsql .hljs-comment {
+    color: #FF0000; /* Red color */
+    font-style: italic; /* Italic style */
+    font-weight: bold; /* Bold style */
 }
+
 
 .language-tsql .hljs-built_in {
     color: #ff00ff;
