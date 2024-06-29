@@ -1,13 +1,11 @@
 On a not so fine hot summer morning I wanted to dual boot my windows laptop with ubuntu because..why not??.Is installing ubuntu is such a huge task ? nope but i made it difficult with my unpreparedness . So i want you guys to know the mistakes i did during installation so that you  can have smooth installation. Sounds awesome right ? okay lets dive into my ubuntu installation experience. When i decided to install ubuntu i had two options that i can dual boot or replace windows completely with ubuntu. Come on, Its a short life to make adventures hence i went with option one. Then i immediately started to organize my files on pc which were piled up since i brought this laptop(my first year).I think it is easy to walk on water than organizing and deleting unwanted files . It took me almost 2 days to clear and organize files on my pc. But the war is not over yet : )..now the most important task is to back up imp files.Yeah i know backing up files can be tiresome and boring . But installing new os can be tricky sometimes as it can erase existing files. I backed up my files and completed the first level of installation.
 gif (finally)
 
-# My Blog Post
 
-This is a paragraph before the GIF.
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc2cWhuYno4NXUxZDI0Mjhka2NwYnBnN2k2dXB3b3Njb2pyODVhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je1x7SB0PUSTXzO/giphy.gif" alt="GIF of a cat">
 
-This is a paragraph after the GIF.
+
 
 
 Now i searched ubuntu installation tutorial and selected this :
