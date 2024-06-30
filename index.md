@@ -6,7 +6,7 @@ The tutrial I followed:<a href="https://www.freecodecamp.org/news/how-to-dual-bo
 
 
 <p>I followed every step in the tutorial. As a part of the next step, we needed an empty USB. Then I realized that my USB was full of files. I deleted all the files on my pendrive and inserted it into my PC. Ironically, my pendrive was not detected. I tried many times, but all attempts were in vain. Then I checked whether it was detected on another PC. Yes, it was detected on another PC. But what's the point when I have to install Ubuntu on MY laptop? So, I formatted my pendrive on another PC and tested my luck again. When I inserted it into my laptop, it was detected!!! </p><br>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc2cWhuYno4NXUxZDI0Mjhka2NwYnBnN2k2dXB3b3Njb2pyODVhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je1x7SB0PUSTXzO/giphy.gif" alt="GIF of a cat">
+<img src="https://media.thefinergifs.club/02x14-776176.gif" alt="GIF of a cat">
 <p>
 We have to install Ubuntu on a pendrive using Rufus, which I did perfectly. It's all going well until I mistakenly assigned less space for the Ubuntu partition. I gave 30 GB for the new OS, and the worst thing is I didn't even realize it was insufficient. Now, when I restart my PC, Ubuntu is not showing up and I've come full circle back to where I started. It's a mess again!! I tried to shrink the disk space again. It is not working. Then I came to know about GParted, an official GNOME partition-editing application. I downloaded it again and with all my cleverness, I installed GParted on my pendrive. (gif: facepalm)</p><br>
 
