@@ -5,7 +5,7 @@ The tutrial I followed:<a href="https://www.freecodecamp.org/news/how-to-dual-bo
 
 
 
-<p>I followed every step in the tutorial. As a part of the next step, we needed an empty USB. Then I realized that my USB was full of files. I deleted all the files on my pendrive and inserted it into my PC. Ironically, my pendrive was not detected. I tried many times, but all attempts were in vain. Then I checked whether it was detected on another PC. Yes, it was detected on another PC. But what's the point when I have to install Ubuntu on MY laptop? So, I formatted my pendrive on another PC and tested my luck again. When I inserted it into my laptop, it was detected!!! </p><br>
+<p>I followed every step in the tutorial. As a part of the next step, we needed an empty USB. Then I realized that my USB was full of files. I deleted all the files on my pendrive and inserted it into my PC. Ironically, my pendrive was not detected. I tried many times, but all attempts were in vain. Then I checked whether it was detected on another PC. Yes, it was detected on another PC. But what's the point when I have to install Ubuntu on MY laptop? So, I formatted my pendrive on another PC and tested my luck again. When I inserted it into my laptop, it was detected!!! </p>
  <center>
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x5NG9ucHZ0OG1ham0zOWE3NzlibnMzdnJ5dXczem00NGFreDR6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYYx0b3DcYwOA/giphy.gif" alt="GIF of a cat" width="300" height="200">
     </center><br>
