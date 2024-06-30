@@ -9,15 +9,15 @@ We have to install Ubuntu on a pendrive using Rufus, which I did perfectly. It's
 It's a rollercoaster ride, but I learned many new things, terms, and got to know how to troubleshoot errors on my own, which can make things worse or more fun than they are.<br>
 Mistakes I made:
 
-    * Giving less disk space
-    * Not having an empty USB ready
-    * Installing GParted on my USB
-    * Not Turning off BitLocker in Windows before installation
+    * Giving less disk space<br>
+    * Not having an empty USB ready<br>
+    * Installing GParted on my USB<br>
+    * Not Turning off BitLocker in Windows before installation<br>
 
 Things I learned:
 
-    * Get to know more about the steps you are following in a tutorial. In simple terms, don't follow blindly without understanding.
-    + Got to know the GParted application.
-    - Can troubleshoot my own USB (just kidding).
+    * Get to know more about the steps you are following in a tutorial. In simple terms, don't follow blindly without understanding.<br>
+    + Got to know the GParted application.<br>
+    - Can troubleshoot my own USB (just kidding).<br>
 
 Stay tuned if you want to hear about my experience with Ubuntu or how my Ubuntu is working with less disk space. </font>
