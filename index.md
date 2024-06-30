@@ -12,12 +12,12 @@ The tutrial I followed:<a href="https://www.freecodecamp.org/news/how-to-dual-bo
 <p>
 We have to install Ubuntu on a pendrive using Rufus, which I did perfectly. It's all going well until I mistakenly assigned less space for the Ubuntu partition. I gave 30 GB for the new OS, and the worst thing is I didn't even realize it was insufficient. Now, when I restart my PC, Ubuntu is not showing up and I've come full circle back to where I started. It's a mess again!! I tried to shrink the disk space again. It is not working. Then I came to know about GParted, an official GNOME partition-editing application. I downloaded it again and with all my cleverness, I installed GParted on my pendrive. (gif: facepalm)</p><br>
 <center>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlraDgzaDR0eXhqZjljMWhycGJoNnBjcngyZXFncXFyYWMzb3RoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNfErHio7ZAc/giphy.gif" alt="GIF of a cat"width="300" height="200">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlraDgzaDR0eXhqZjljMWhycGJoNnBjcngyZXFncXFyYWMzb3RoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNfErHio7ZAc/giphy.gif" alt="GIF of a bat"width="300" height="200">
     </center><br>
 
 <p>It's time to format again!! After formatting my pendrive, I wanted to try again to install Ubuntu and restarted my laptop. Ubuntu appeared on my screen!! Unexpected things happen when we least expect them. So, I opened it and followed the tutorial as it is. Then I came across a new term, 'BitLocker encryption.' We have to turn off BitLocker encryption in Windows so it allows changes for the new OS. I went to Windows, turned it off using the command-line prompt. I came back to Ubuntu and finally, I had dual-booted my laptop.</p><br>
 <center>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYweHRocXBiN3BobXRmNDV5bmxncGxsa3JoODRqcGNxcTNoZW5uaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MZocLC5dJprPTcrm65/giphy.gif" alt="GIF of a cat"width="300" height="200">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYweHRocXBiN3BobXRmNDV5bmxncGxsa3JoODRqcGNxcTNoZW5uaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MZocLC5dJprPTcrm65/giphy.gif" alt="GIF of a mat"width="300" height="200">
     </center><br>
 It's a rollercoaster ride, but I learned many new things, terms, and got to know how to troubleshoot errors on my own, which can make things worse or more fun than they are.<br>
 Mistakes I made:<br>
