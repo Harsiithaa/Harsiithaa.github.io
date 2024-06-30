@@ -7,17 +7,17 @@ We have to install Ubuntu on a pendrive using Rufus, which I did perfectly. It's
 
 <p>It's time to format again!! After formatting my pendrive, I wanted to try again to install Ubuntu and restarted my laptop. Ubuntu appeared on my screen!! Unexpected things happen when we least expect them. So, I opened it and followed the tutorial as it is. Then I came across a new term, 'BitLocker encryption.' We have to turn off BitLocker encryption in Windows so it allows changes for the new OS. I went to Windows, turned it off using the command-line prompt. I came back to Ubuntu and finally, I had dual-booted my laptop.</p><br>
 It's a rollercoaster ride, but I learned many new things, terms, and got to know how to troubleshoot errors on my own, which can make things worse or more fun than they are.<br>
-Mistakes I made:
+Mistakes I made:<br>
 
-    * Giving less disk space<br>
-    * Not having an empty USB ready<br>
-    * Installing GParted on my USB<br>
-    * Not Turning off BitLocker in Windows before installation<br>
+    1 Giving less disk space<br>
+    2 Not having an empty USB ready<br>
+    3 Installing GParted on my USB<br>
+    4 Not Turning off BitLocker in Windows before installation<br>
 
-Things I learned:
+Things I learned:<br>
 
-    * Get to know more about the steps you are following in a tutorial. In simple terms, don't follow blindly without understanding.<br>
-    + Got to know the GParted application.<br>
-    - Can troubleshoot my own USB (just kidding).<br>
+    1 Get to know more about the steps you are following in a tutorial. In simple terms, don't follow blindly without understanding.<br>
+    2 Got to know the GParted application.<br>
+    3 Can troubleshoot my own USB (just kidding).<br>
 
 Stay tuned if you want to hear about my experience with Ubuntu or how my Ubuntu is working with less disk space. </font>
